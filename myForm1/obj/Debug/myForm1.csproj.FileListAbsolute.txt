@@ -1,0 +1,16 @@
+C:\Users\ZERO\source\repos\myForm1\myForm1\bin\Debug\myForm1.exe.config
+C:\Users\ZERO\source\repos\myForm1\myForm1\bin\Debug\myForm1.exe
+C:\Users\ZERO\source\repos\myForm1\myForm1\bin\Debug\myForm1.pdb
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.csprojAssemblyReference.cache
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form1.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form2.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form3.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form4.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form5.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form6.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form7.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Form8.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.Properties.Resources.resources
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.csproj.GenerateResource.cache
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.exe
+C:\Users\ZERO\source\repos\myForm1\myForm1\obj\Debug\myForm1.pdb
