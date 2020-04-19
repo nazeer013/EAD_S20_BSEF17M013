@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "SignUp";
+}
+
+<form action='@Url.Content("~/Users/SignUp")' method="post">
+    <div class='container'>
+        <div class='login-box'>
+            <div class='row'>
+                <div class="col-md-6 login-left">
+                    <h2> SignUp Here </h2>
+
+                    <div class="from-group">
+                        <label>Name</label>
+                        <input type="text" name="Name" id="Name1" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <label>Login</label>
+                        <input type="text" name="Login1" id="Login1" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <label>Password</label>
+                        <input type="password" name="Password1" id="Password1" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <label>Confirm Password</label>
+                        <input type="password" name="Password2" id="Password2" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <button type="submit" name="SigUp " class="btn btn-primary">SignUp</button><br>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<form action='@Url.Content("~/Users/Login")' method="get">
+    Already Registered!
+    <button type="submit" class=" btn btn-primary">Log In</button>
+</form>
+

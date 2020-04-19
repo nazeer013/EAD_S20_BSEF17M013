@@ -1,0 +1,39 @@
+﻿
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<form action='@Url.Content("~/Users/Login")' method="post">
+    <div class='container'>
+        <div class='login-box'>
+            <div class='row'>
+                <div class="col-md-6 login-left">
+                    <h2> Login Here </h2>
+
+                    <div class="from-group">
+                        <label>Username</label>
+                        <input type="text" name="Login" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <label>Password</label>
+                        <input type="password" name="Password" class="form-control" required><br />
+                    </div>
+                    <div class="from-group">
+                        <button type="submit" class="btn btn-primary">Login</button><br>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <span style="color:red;">@ViewBag.ErrorMsg</span>
+</form>
+<form action='@Url.Content("~/Users/SignUp")' method="get">
+    New Here? Register yourself!
+    <button type="submit" "class=" btn btn-primary">SignUp</button>
+</form>
+
+
+
+
